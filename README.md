@@ -37,7 +37,7 @@ Don't like `npm`? Feel free to use `yarn`, `pnpm`, or `cargo`. Nothing will brea
 
 ## Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/AyanavaKarmakar/Guestbook/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/AyanavaKarmakar/tauri-t3-app/issues).
 
 ## Show your support
 
