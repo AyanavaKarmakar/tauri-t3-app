@@ -10,7 +10,7 @@ A clean and simple starter repo using the [T3 Stack](https://create.t3.gg/) in [
 
 ## Objective
 
-Integrating an existing T3 project in Tauri is pretty easy. The problem arises when we scaffold a new app using `create tauri-app`. Instead of trying to stitch together the T3 Stack tech from scratch, we can simply use this template.
+Integrating an existing T3 project in Tauri is pretty easy. The problem arises when we scaffold a new app using `create tauri-app`. Instead of trying to stitch together the T3 Stack tech from scratch, one can simply use this template.
 
 ## Commands
 
