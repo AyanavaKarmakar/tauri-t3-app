@@ -1,4 +1,4 @@
-![tauri-t3-app](https://socialify.git.ci/AyanavaKarmakar/tauri-t3-app/image?description=1&descriptionEditable=Clean%20and%20simple%20starter%20repo%20using%20the%20T3%20Stack%20in%20Tauri!&font=Inter&forks=1&issues=1&language=1&logo=https%3A%2F%2Fseeklogo.com%2Fimages%2FT%2Ftauri-logo-39352BD5A1-seeklogo.com.png&name=1&pattern=Overlapping%20Hexagons&pulls=1&stargazers=1&theme=Auto)
+![tauri-t3-app](https://socialify.git.ci/AyanavaKarmakar/tauri-t3-app/image?description=1&descriptionEditable=Clean%20and%20simple%20starter%20repo%20using%20the%20T3%20Stack%20in%20Tauri!&font=Inter&language=1&logo=https%3A%2F%2Fseeklogo.com%2Fimages%2FT%2Ftauri-logo-39352BD5A1-seeklogo.com.png&name=1&pattern=Overlapping%20Hexagons&theme=Auto)
 
 ![image](https://user-images.githubusercontent.com/89210438/206247719-5dbd745c-bbe3-4c20-9181-1321fcd9a42d.png)
 
