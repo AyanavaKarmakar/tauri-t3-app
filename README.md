@@ -26,6 +26,8 @@ npm run tauri dev
 npm run tauri build
 ```
 
+Don't like `npm`? Feel free to use `yarn`, `pnpm`, or `cargo`. Nothing will break! 
+
 ## Learn More
 
 1. [`create-t3-app` — Documentation](https://create.t3.gg/)
