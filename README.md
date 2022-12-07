@@ -1,28 +1,32 @@
-# Create T3 App
+# tauri-t3-app
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+This is a clean and simple starter repo using the [T3 Stack](https://create.t3.gg/) in [Tauri](https://tauri.app/)!
 
-## What's next? How do I make an app with this?
+## Objective
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+Integrating an existing T3 project in Tauri is pretty easy. The problem arises when we scaffold a new app using `create tauri-app`. Instead of trying to stitch together the T3 Stack tech from scratch, we can simply use this template.
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+## Commands
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+### Install Deps
+
+```sh
+npm i
+```
+
+### Run Dev 
+
+```sh
+npm run tauri dev
+```
+
+### Build App
+
+```sh
+npm run tauri build
+```
 
 ## Learn More
 
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
-
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
-
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
-
-## How do I deploy this?
-
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+1. [`create-t3-app` — Documentation](https://create.t3.gg/)
+2. [`create-tauri-app` — Documentation](https://tauri.app/)
