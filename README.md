@@ -2,7 +2,11 @@
 
 ![image](https://user-images.githubusercontent.com/89210438/206230145-c1faee43-27ce-4e7f-a44c-b259c752d585.png)
 
-This is a clean and simple starter repo using the [T3 Stack](https://create.t3.gg/) in [Tauri](https://tauri.app/)!
+<div align="center">
+
+A clean and simple starter repo using the [T3 Stack](https://create.t3.gg/) in [Tauri](https://tauri.app/)!
+
+</div>
 
 ## Objective
 
