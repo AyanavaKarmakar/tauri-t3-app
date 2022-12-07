@@ -34,3 +34,13 @@ Don't like `npm`? Feel free to use `yarn`, `pnpm`, or `cargo`. Nothing will brea
 
 1. [`create-t3-app` — Documentation](https://create.t3.gg/)
 2. [`create-tauri-app` — Documentation](https://tauri.app/)
+
+## Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/AyanavaKarmakar/Guestbook/issues).
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+---
