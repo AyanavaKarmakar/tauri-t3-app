@@ -39,7 +39,7 @@ const Index: NextPage = () => {
           className="rounded-full bg-white/80 px-10 py-3 text-xl font-bold text-black
       no-underline transition hover:bg-white/90"
           // Update this link to your app's URL before building
-          href="https://tauri-t3-app.vercel.app/"
+          href="https://tauri-t3-app.vercel.app/home"
         >
           Start App
         </Link>
