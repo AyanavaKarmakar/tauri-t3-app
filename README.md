@@ -20,7 +20,7 @@ Integrating an existing T3 project in Tauri is pretty easy. The problem arises w
 npm i
 ```
 
-### Run Dev 
+### Run Tauri Dev 
 
 ```sh
 npm run tauri dev
@@ -33,6 +33,22 @@ npm run tauri build
 ```
 
 Don't like `npm`? Feel free to use `yarn`, `pnpm`, or `cargo`. Nothing will break! 
+
+Note: Deploy your Next.js app before building your Tauri App. Remember to override the default build command so that the Vercel deploy doesn't fail.
+
+![override-vercel-build](https://user-images.githubusercontent.com/89210438/206443565-26bf22cb-8a26-42f4-a4a7-16d8450ea737.png)
+
+### Caveats
+
+Tauri needs Next.js to run in SSG mode for it's native functionalities. If you don't need native stuff and simply want a web app in native, just redirect to the deployed Next.js app in your Tauri app. If you want a taste of both SSG & SSR, switch between the deployed Next.app window & native window whenever and wherever needed. Whatever you do, your Tauri app will always be less chunky than your Electron.js app.
+
+![Electron-vs-Tauri](https://user-images.githubusercontent.com/89210438/206445776-6f08bd20-83f9-4602-98a9-3ac983cd9baa.png)
+
+<div align="center">
+
+Credits: [Fireship](https://youtu.be/-X8evddpu7M)
+
+</div>
 
 ## Learn More
 
