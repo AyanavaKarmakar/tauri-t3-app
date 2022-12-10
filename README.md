@@ -1,4 +1,4 @@
-![tauri-t3-app](https://socialify.git.ci/AyanavaKarmakar/tauri-t3-app/image?description=1&descriptionEditable=Clean%20and%20simple%20starter%20repo%20using%20the%20T3%20Stack%20in%20Tauri!&font=Inter&language=1&logo=https%3A%2F%2Fseeklogo.com%2Fimages%2FT%2Ftauri-logo-39352BD5A1-seeklogo.com.png&name=1&pattern=Overlapping%20Hexagons&theme=Auto)
+![tauri-t3-app](https://socialify.git.ci/AyanavaKarmakar/tauri-t3-app/image?description=0&descriptionEditable=Clean%20and%20simple%20starter%20repo%20using%20the%20T3%20Stack%20in%20Tauri!&font=Inter&language=1&logo=https%3A%2F%2Fseeklogo.com%2Fimages%2FT%2Ftauri-logo-39352BD5A1-seeklogo.com.png&name=1&pattern=Overlapping%20Hexagons&theme=Auto)
 
 ![image](https://user-images.githubusercontent.com/89210438/206268075-7b3415f3-3e8f-470c-9d54-814e6253929c.png)
 
@@ -7,6 +7,10 @@
 A clean and simple starter repo using the [T3 Stack](https://create.t3.gg/) in [Tauri](https://tauri.app/)!
 
 </div>
+
+## Getting Started
+
+Before we continue, make sure you have completed the [prerequisites](https://tauri.app/v1/guides/getting-started/prerequisites) to have a working development environment.
 
 ## Objective
 
