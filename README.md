@@ -6,6 +6,8 @@
 
 A clean and simple starter repo using the [T3 Stack](https://create.t3.gg/) in [Tauri](https://tauri.app/)!
 
+[![pages-build-deployment](https://github.com/AyanavaKarmakar/tauri-t3-app/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/AyanavaKarmakar/tauri-t3-app/actions/workflows/pages/pages-build-deployment)
+
 </div>
 
 ## Getting Started
